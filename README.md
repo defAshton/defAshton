@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @defAshton
+- 👀 I’m interested in AI, software engineering and social engineering
+- 🌱 I’m currently learning in HK PolyU
+- 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+defAshton/defAshton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
